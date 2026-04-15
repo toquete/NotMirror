@@ -1,0 +1,17 @@
+{
+  "name": "notmirror-desktop",
+  "version": "1.0.0",
+  "description": "NotMirror desktop companion — receives Android notifications over local Wi-Fi",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  }
+}

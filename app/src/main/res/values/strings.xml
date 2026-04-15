@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotMirror</string>
+    <string name="notification_listener_label">NotMirror Listener</string>
+    <string name="notification_channel_name">NotMirror Service</string>
+    <string name="notification_channel_description">Keeps NotMirror running and forwarding notifications</string>
+    <string name="foreground_notification_title">NotMirror is active</string>
+    <string name="foreground_notification_text">Forwarding notifications to desktop</string>
+</resources>
